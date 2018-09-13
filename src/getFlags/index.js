@@ -6,7 +6,7 @@
  * getFlags(arr); // [1, 2, 3, 4, 5, 6]
  */
 const getFlags = arr => {
-  /* your logic here...*/
+  https://github.com/SofiaOprysk/first-assignment-SofiaOprysk-master/tree/master/src
 };
 
 export default getFlags;
